@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Tanbin
 
-<!--
-**TanbinRKyser/tanbinrkyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Python and Java applications and explore scalable, AI-powered tools.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on an LLM Evaluation Technique.
+- 🌱 Learning machine learning, LLMs, and software development.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanbinrkyser/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- [Multilingual Support Bot]([YOUR_REPOSITORY_URL](https://github.com/TanbinRKyser/multilingual-customer-support)) — An AI-powered
+  assistant for multilingual customer support.
+- [Currency Exchange]([YOUR_PROJECT_URL](https://github.com/TanbinRKyser/Currency-Exchange)) — Java and Spring Boot microservices project that separates exchange-rate lookup from currency conversion. I containerized both services with Docker, deployed them to Kubernetes, and added automated tests, outage handling, Prometheus monitoring, and a GitHub Actions pipeline that publishes versioned images.
+
+---
+
+[Portfolio](https://tanbinrkyser.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/tanbinrkyser/)
